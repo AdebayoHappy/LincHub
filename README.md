@@ -1,0 +1,2 @@
+# LincHub
+An Attendance system
